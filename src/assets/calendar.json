@@ -178,9 +178,17 @@
 			"title": "Memorial Day, No Class"
 		},
 		{
-			"date": "2024-06-03",
+			"date": "2024-05-29",
 			"type": "class",
 			"title": "Misinformation",
+			"readings": [
+				{"tbd": "tbd"}
+			]
+		},
+		{
+			"date": "2024-06-03",
+			"type": "class",
+			"title": "TBD",
 			"readings": [
 				{"tbd": "tbd"}
 			]
