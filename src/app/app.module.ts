@@ -13,6 +13,10 @@ import { CalendarComponent } from './calendar/calendar.component';
 import { PaperComponent } from './paper/paper.component';
 import { AssignmentsComponent } from './assignments/assignments.component';
 import { ReadingsComponent } from './readings/readings.component';
+import { SyllabusComponent } from './syllabus/syllabus.component';
+import { Assignment1Component } from './assignment1/assignment1.component';
+import { Assignment2Component } from './assignment2/assignment2.component';
+import { Assignment3Component } from './assignment3/assignment3.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +27,11 @@ import { ReadingsComponent } from './readings/readings.component';
     PaperComponent,
     AssignmentsComponent,
     ReadingsComponent,
-    AppComponent
+    AppComponent,
+    SyllabusComponent,
+    Assignment1Component,
+    Assignment2Component,
+    Assignment3Component
   ],
   imports: [
     BrowserModule,

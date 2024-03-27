@@ -20,7 +20,7 @@ export class CalendarComponent implements OnInit {
   }
 
   parseCalendar(calendar:{}) {
-  	const typeOrder = ["holiday", "absence", "project", "class", "officehours_daniel"]
+  	const typeOrder = ["holiday", "absence", "project", "assignment", "class", "officehours_daniel"]
 	//Sort calendar events
 	calendar['events'].sort((a, b) => {
 		return moment(a.date).diff(moment(b.date));
