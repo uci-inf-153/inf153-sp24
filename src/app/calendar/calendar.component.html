@@ -13,7 +13,8 @@
 						<a [href]="event.slides" target="_blank" *ngIf="event.slides">(slides)</a>
 					</h2>
 					<h3 *ngIf="event.platform">
-						Platform: <a [href]="event.platform.link">{{event.platform.name}}</a>
+						<span *ngIf="!event.platform?.length">Platform: <a *ngIf="event.platform.link" [href]="event.platform.link">{{event.platform.name}}</a><span *ngIf="!event.platform.link">{{event.platform.name}}</span></span>
+						<span *ngIf="event.platform?.length">Platforms: <span *ngFor="let platform of event.platform; last as lastItem;"><a *ngIf="platform.link" [href]="platform.link">{{platform.name}}</a><span *ngIf="!platform.link">{{platform.name}}</span><span *ngIf="!lastItem">, </span></span></span>
 					</h3>
 					<p *ngIf="event.type == 'class' && (!event.readings || !containsRequiredReadings(event.readings)) && !event.venues">
 						No readings assigned.
