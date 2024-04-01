@@ -7,7 +7,9 @@
 		{
 			"date": "2024-04-01",
 			"type": "class",
-			"title": "Introduction & Course Overview"
+			"title": "Introduction & Course Overview",
+			"slides": "assets/slides/04_01_24-introduction.pdf",
+			"recording": "https://uci.zoom.us/rec/share/Kj_iFP6_J_S0tqERtkDkxZG0FYaJSJ8ZSKATJxXqs8bkDE_uItDtNzjBlGcBRM2Q.O6eq92Nx6C9UZDwd?startTime=1711999718000"
 		},
 		{
 			"date": "2024-04-03",
@@ -56,9 +58,14 @@
 			"date": "2024-04-10",
 			"type": "class",
 			"title": "Self-Presentation",
-			"platform": {
-				"name": "Tinder"
-			},
+			"platform": [
+				{
+					"name": "Tinder"
+				},
+				{
+					"name": "Instagram"
+				}
+			],
 			"readings": [
 				{"tbd": "tbd"}
 			]
