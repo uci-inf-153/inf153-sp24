@@ -11,6 +11,7 @@
 					<h2 *ngIf="event.type == 'class'">
 						{{event.title}}
 						<a [href]="event.slides" target="_blank" *ngIf="event.slides">(slides)</a>
+						<a [href]="event.recording" target="_blank" *ngIf="event.recording">(recording)</a>
 					</h2>
 					<h3 *ngIf="event.platform">
 						<span *ngIf="!event.platform?.length">Platform: <a *ngIf="event.platform.link" [href]="event.platform.link">{{event.platform.name}}</a><span *ngIf="!event.platform.link">{{event.platform.name}}</span></span>
