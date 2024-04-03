@@ -60,25 +60,61 @@
 			"title": "Self-Presentation",
 			"platform": [
 				{
-					"name": "Tinder"
+					"name": "Tinder",
+					"link": "https://www.youtube.com/watch?v=YeWD7bZ7HS8"
 				},
 				{
-					"name": "Instagram"
+					"name": "Instagram",
+					"link": "https://www.youtube.com/watch?v=QRxxLUJ9G-c"
 				}
 			],
 			"readings": [
-				{"tbd": "tbd"}
+				{
+					"authors": ["Ditch the Label"],
+					"title": "Are you Living an Insta Lie? Social Media Vs Reality",
+					"link": "https://www.youtube.com/watch?v=0EFHbruKEmw"
+				},
+				{
+					"authors": ["sincerelycourtneylynne"],
+					"title": "5 MUST-HAVE pictures to add to your dating profile!",
+					"link": "https://www.youtube.com/watch?v=CabgH8Ob3aw"
+				},
+				{
+					"authors": ["Sijia Xiao", "Danaë Metaxa", "Joon Sung Park", "Karrie Karahalios", "Niloufar Salehi"],
+					"title": "Random, Messy, Funny, Raw: Finstas as Intimate Reconfigurations of Social Media",
+					"venue": "CHI",
+					"date": "2020",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3313831.3376424"
+				}
 			]
 		},
 		{
 			"date": "2024-04-15",
 			"type": "class",
 			"title": "Ties",
-			"platform": {
-				"name": "WhatsApp"
-			},
+			"platform": [
+				{
+					"name": "WhatsApp",
+					"link": "https://www.youtube.com/watch?v=sghayXZ_RK0"
+				},
+				{
+					"name": "NextDoor",
+					"link": "https://www.youtube.com/watch?v=RkeavnLORSE"
+				}
+			],
 			"readings": [
-				{"tbd": "tbd"}
+				{
+					"authors": ["Stanford Center on Poverty and Inequality"],
+					"title": "Social Networks and Getting a Job: Mark Granovetter",
+					"link": "https://www.youtube.com/watch?v=g3bBajcR5fE"
+				},
+				{
+					"authors": ["Midas Nouwens", "Carla F. Griggio", "Wendy E. Mackay"],
+					"title": "\"WhatsApp is for family; Messenger is for friends\": Communication Places in App Ecosystems",
+					"venue": "CHI",
+					"date": "2017",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3025453.3025484"
+				}
 			]
 		},
 		{
