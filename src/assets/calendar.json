@@ -222,12 +222,17 @@
 		{
 			"date": "2024-05-13",
 			"type": "absence",
-			"title": "Professor Epstein @ CHI, Guest TBD"
+			"title": "Professor Epstein @ CHI, Guests Marawin Chheang & Saba Karim"
 		},
 		{
 			"date": "2024-05-13",
 			"type": "class",
-			"title": "TBD",
+			"title": "Close Friends Only!",
+			"platform": [
+				{
+					"name": "Favs"
+				}
+			],
 			"readings": [
 				{"tbd": "tbd"}
 			]
