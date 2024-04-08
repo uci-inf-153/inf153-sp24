@@ -129,6 +129,11 @@
 			"date": "2024-04-17",
 			"type": "class",
 			"title": "Platform Capabilities",
+			"platform": [
+				{
+					"name": "Snapchat"
+				}
+			],
 			"readings": [
 				{"tbd": "tbd"}
 			]
@@ -139,7 +144,7 @@
 			"title": "Community Norms",
 			"platform": [
 				{
-					"name": "Snapchat"
+					"name": "Stack Overflow"
 				},
 				{
 					"name": "Venmo"
@@ -196,17 +201,6 @@
 			"date": "2024-05-06",
 			"type": "class",
 			"title": "Content Moderation",
-			"platform": {
-				"name": "Reddit"
-			},
-			"readings": [
-				{"tbd": "tbd"}
-			]
-		},
-		{
-			"date": "2024-05-08",
-			"type": "class",
-			"title": "Content Moderation",
 			"platform": [
 				{
 					"name": "Discord"
@@ -215,6 +209,18 @@
 					"name": "YouTube"
 				}
 			],
+			"readings": [
+				{"tbd": "tbd"}
+			]
+		},
+		{
+			"date": "2024-05-08",
+			"type": "class",
+			"title": "Platform Governance",
+			"platform": [
+				{
+				"name": "Reddit"
+			},
 			"readings": [
 				{"tbd": "tbd"}
 			]
