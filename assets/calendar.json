@@ -135,7 +135,14 @@
 					"name": "Snapchat"
 			},
 			"readings": [
-				{"tbd": "tbd"}
+				{
+					"authors": ["Amy X. Zhang", "Michael S. Bernstein", "David R. Karger", "Mark S. Ackerman"],
+					"title": "Form-From: A Design Space of Social Media Systems",
+					"venue": "PACM HCI",
+					"volume": "8",
+					"issue": "CSCW1",
+					"link": "https://arxiv.org/abs/2402.05388"
+				}
 			]
 		},
 		{
@@ -151,7 +158,21 @@
 				}
 			],
 			"readings": [
-				{"tbd": "tbd"}
+				{
+					"authors": ["Hang Do Thi Duc"],
+					"title": "Public By Default",
+					"date": "2017",
+					"link": "https://publicbydefault.fyi/"
+				},
+				{
+					"authors": ["Monica Caraway", "Daniel A. Epstein", "Sean A. Munson"],
+					"title": "Friends Don't Need Receipts: The Curious Case of Social Awareness Streams in the Mobile Payment App Venmo",
+					"venue": "PACM HCI",
+					"volume": "1",
+					"issue": "CSCW",
+					"date": "2017",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3134663"
+				}
 			]
 		},
 		{
@@ -212,6 +233,11 @@
 			"readings": [
 				{"tbd": "tbd"}
 			]
+		},
+		{
+			"date": "2024-05-08",
+			"type": "assignment",
+			"title": "Analyzing Defunct Social Platforms"
 		},
 		{
 			"date": "2024-05-08",
