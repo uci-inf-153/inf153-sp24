@@ -134,7 +134,8 @@
 			"type": "class",
 			"title": "Platform Capabilities",
 			"platform": {
-					"name": "Snapchat"
+					"name": "Snapchat",
+					"link": "https://www.youtube.com/watch?v=orsZ0F1rcsA"
 			},
 			"readings": [
 				{
@@ -153,10 +154,12 @@
 			"title": "Community Norms",
 			"platform": [
 				{
-					"name": "Stack Overflow"
+					"name": "Stack Overflow",
+					"link": "https://www.youtube.com/watch?v=Vt-Wf7d0CFo"
 				},
 				{
-					"name": "Venmo"
+					"name": "Venmo",
+					"link": "https://www.youtube.com/watch?v=O61hMHYWqc8"
 				}
 			],
 			"readings": [
@@ -182,7 +185,8 @@
 			"type": "class",
 			"title": "Livestreaming",
 			"platform": {
-				"name": "Twitch"
+				"name": "Twitch",
+				"link": "https://www.youtube.com/watch?v=OWFaV8Nymzs"
 			},
 			"readings": [
 				{"tbd": "tbd"}
@@ -194,10 +198,12 @@
 			"title": "ONLINE Work",
 			"platform": [
 				{
-					"name": "Slack"
+					"name": "Slack",
+					"link": "https://www.youtube.com/watch?v=q19RtuCHt1Q"
 				},
 				{
-					"name": "Zoom"
+					"name": "Zoom",
+					"link": "https://www.youtube.com/watch?v=fMUxzrgZvZQ"
 				}
 			],
 			"readings": [
@@ -210,10 +216,12 @@
 			"title": "Online WORK",
 			"platform": [
 				{
-					"name": "Fiverr"
+					"name": "Uber",
+					"link": "https://www.youtube.com/watch?v=-xLBm_GfyHg"
 				},
 				{
-					"name": "OnlyFans"
+					"name": "Fiverr",
+					"link": "https://www.youtube.com/watch?v=Npta6zk_Eu0"
 				}
 			],
 			"readings": [
@@ -267,7 +275,18 @@
 				}
 			],
 			"readings": [
-				{"tbd": "tbd"}
+				{
+					"authors": ["Saba Karim"],
+					"title": "Have you seen your friends lately?",
+					"date": "2014",
+					"link": "https://favshq.com/blog"
+				},
+				{
+					"authors": ["Sarah Perez"],
+					"title": "Stealth startup Favs raises ~$1M for its close-friends-only social network",
+					"date": "2023",
+					"link": "https://techcrunch.com/2023/09/14/stealth-startup-favs-raises-1m-for-its-close-friends-only-social-network/?guccounter=1"
+				}
 			]
 		},
 		{
