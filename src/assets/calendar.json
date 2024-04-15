@@ -121,7 +121,9 @@
 					"date": "2017",
 					"link": "https://dl.acm.org/doi/abs/10.1145/3025453.3025484"
 				}
-			]
+			],
+			"slides": "assets/slides/04_15_24-ties.pdf",
+			"recording": "https://uci.zoom.us/rec/share/zSCDpRtR30NK3UMea6OLDrCu5PCVdzy53ZAZDb4wFutfPm7u2wML6Hs7PBaGcIg0.3JwVkOBKyzF3NErU"
 		},
 		{
 			"date": "2024-04-17",
@@ -279,7 +281,7 @@
 				{
 					"authors": ["Saba Karim"],
 					"title": "Have you seen your friends lately?",
-					"date": "2014",
+					"date": "2024",
 					"link": "https://favshq.com/blog"
 				},
 				{
