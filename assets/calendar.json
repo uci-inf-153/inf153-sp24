@@ -148,7 +148,9 @@
 					"issue": "CSCW1",
 					"link": "https://arxiv.org/abs/2402.05388"
 				}
-			]
+			],
+			"slides": "assets/slides/04_17_24-platform_capabilities.pdf",
+			"recording": "https://uci.zoom.us/rec/share/Q4R5FqmKRTbsPMLOBbWRY9dprKBfYrOpwTBjUpLVt0PN_q5gC7hfsGnMy1GhBsJN.V-0EsUSp1nLtTAQh"
 		},
 		{
 			"date": "2024-04-22",
@@ -238,7 +240,11 @@
 				}
 			],
 			"readings": [
-				{"tbd": "tbd"}
+				{
+					"authors": ["Tangible Media Group"],
+					"title": "ClearBoard: a seamless medium for shared drawing and conversation with eye contact",
+					"link": "https://www.youtube.com/watch?v=wP5ysTqEj7I"
+				}
 			]
 		},
 		{
