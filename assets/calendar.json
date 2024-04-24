@@ -207,7 +207,9 @@
 					"date": "2014",
 					"link": "https://dl.acm.org/doi/abs/10.1145/2556288.2557048"
 				}
-			]
+			],
+			"slides": "assets/slides/04_24_24-livestreaming.pdf",
+			"recording": "https://uci.zoom.us/rec/share/yBQ4ircB5VmoZiDr4QTEpy6y1hBiaSv_rpGScAaA1XxzUa1BSRGYQeHU5e-zpMSp.45BqPl75rBGwa1Y8"
 		},
 		{
 			"date": "2024-04-29",
@@ -281,7 +283,18 @@
 				}
 			],
 			"readings": [
-				{"tbd": "tbd"}
+				{
+					"authors": ["Casey Newton"],
+					"title":"The Trauma Floor: The secret lives of Facebook moderators in America",
+					"venue":"The Verge",
+					"link": "https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona"
+				},
+				{
+					"authors": ["Jad Abumrad", "Robert Krulwich"],
+					"title": "Post No Evil",
+					"venue": "Radiolab",
+					"link": "https://radiolab.org/podcast/post-no-evil/transcript"
+				}
 			]
 		},
 		{
@@ -298,7 +311,15 @@
 				"name": "Reddit"
 			},
 			"readings": [
-				{"tbd": "tbd"}
+				{
+					"authors": ["Shagun Javer", "Seth Frey", "Amy X. Zhang"],
+					"title": "Decentralizing Platform Power: A Design Space of Multi-Level Governance in Online Social Platforms",
+					"venue": "Social Media + Society",
+					"volume": 9,
+					"issue": 4,
+					"date": "2023",
+					"link": "https://journals.sagepub.com/doi/full/10.1177/20563051231207857"
+				}
 			]
 		},
 		{
