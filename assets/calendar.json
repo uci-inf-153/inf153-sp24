@@ -276,10 +276,12 @@
 			"title": "Content Moderation",
 			"platform": [
 				{
-					"name": "Discord"
+					"name": "Discord",
+					"link": "https://www.youtube.com/watch?v=TJ13BA3-NR4"
 				},
 				{
-					"name": "YouTube"
+					"name": "YouTube",
+					"link": "https://www.youtube.com/watch?v=BLEZE70spN8"
 				}
 			],
 			"readings": [
@@ -308,7 +310,8 @@
 			"type": "class",
 			"title": "Platform Governance",
 			"platform": {
-				"name": "Reddit"
+				"name": "Reddit",
+				"link": "https://www.youtube.com/watch?v=TeYqUgcdgwQ"
 			},
 			"readings": [
 				{
