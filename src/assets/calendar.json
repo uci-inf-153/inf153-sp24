@@ -270,7 +270,9 @@
 					"date": "2015",
 					"link": "https://dl.acm.org/doi/abs/10.1145/2702123.2702548"
 				}
-			]
+			],
+			"slides": "assets/slides/05_01_24-online_work.pdf",
+			"recording": "https://uci.zoom.us/rec/share/6v5u8Uwowu0Syb1Nqlj_HxNZam2pgGoum4Avicz6dxgtX7mN_dvdGxmdRhHIMcYh.JksJPD7F8jSUCkph"
 		},
 		{
 			"date": "2024-05-06",
@@ -316,6 +318,18 @@
 				"link": "https://www.youtube.com/watch?v=TeYqUgcdgwQ"
 			},
 			"readings": [
+				{
+					"authors": ["Jay Peters"],
+					"title": "How Reddit crushed the biggest protest in its history",
+					"date": "2023",
+					"link": "https://www.theverge.com/23779477/reddit-protest-blackouts-crushed"
+				},
+				{
+					"authors": ["Jason Koebler"],
+					"title": "The Reddit Protest Is a Battle for the Soul of the Human Internet",
+					"date": "2023",
+					"link": "https://www.vice.com/en/article/g5yykm/the-reddit-protest-is-a-battle-for-the-soul-of-the-human-internet"
+				},
 				{
 					"authors": ["Shagun Javer", "Seth Frey", "Amy X. Zhang"],
 					"title": "Decentralizing Platform Power: A Design Space of Multi-Level Governance in Online Social Platforms",
