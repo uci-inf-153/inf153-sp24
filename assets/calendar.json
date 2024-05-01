@@ -317,6 +317,18 @@
 			},
 			"readings": [
 				{
+					"authors": ["Jay Peters"],
+					"title": "How Reddit crushed the biggest protest in its history",
+					"date": "2023",
+					"link": "https://www.theverge.com/23779477/reddit-protest-blackouts-crushed"
+				},
+				{
+					"authors": ["Jason Koebler"],
+					"title": "The Reddit Protest Is a Battle for the Soul of the Human Internet",
+					"date": "2023",
+					"link": "https://www.vice.com/en/article/g5yykm/the-reddit-protest-is-a-battle-for-the-soul-of-the-human-internet"
+				},
+				{
 					"authors": ["Shagun Javer", "Seth Frey", "Amy X. Zhang"],
 					"title": "Decentralizing Platform Power: A Design Space of Multi-Level Governance in Online Social Platforms",
 					"venue": "Social Media + Society",
