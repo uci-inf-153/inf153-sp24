@@ -344,10 +344,48 @@
 		{
 			"date": "2024-05-13",
 			"type": "absence",
-			"title": "Professor Epstein @ CHI, Guests Marawin Chheang & Saba Karim"
+			"title": "Professor Epstein @ CHI"
 		},
 		{
 			"date": "2024-05-13",
+			"type": "class",
+			"title": "TBD"
+		},
+		{
+			"date": "2024-05-15",
+			"type": "absence",
+			"title": "Professor Epstein @ CHI, Guest Rajan Vaish"
+		},
+		{
+			"date": "2024-05-15",
+			"type": "class",
+			"title": "AI and Social Media",
+			"platform": {
+				"name": "Easel.AI",
+				"link": "https://www.youtube.com/watch?v=wsxNn9A56BQ"
+			},
+			"readings": [
+				{
+					"authors": ["Romain Dillet"],
+					"title": "With Easel, ex-Snap researchers are building the next-generation Bitmoji thanks to AI",
+					"date": "2024",
+					"link": "https://techcrunch.com/2024/04/23/with-easel-ex-snap-researchers-are-building-the-next-generation-bitmoji-thanks-to-ai/"
+				},
+				{
+					"authors": ["Easel.ai"],
+					"title": "Play with the App!",
+					"date": "2024",
+					"link": "https://apps.apple.com/us/app/easel-ai/id6448734086"
+				}
+			]
+		},
+		{
+			"date": "2024-05-20",
+			"type": "absence",
+			"title": "Guests Marawin Chheang & Saba Karim"
+		},
+		{
+			"date": "2024-05-20",
 			"type": "class",
 			"title": "Close Friends Only!",
 			"platform": [
@@ -360,7 +398,7 @@
 					"authors": ["Saba Karim"],
 					"title": "Have you seen your friends lately?",
 					"date": "2024",
-					"link": "https://favshq.com/blog"
+					"link": "https://favshq.substack.com/p/have-you-seen-your-friends-lately"
 				},
 				{
 					"authors": ["Sarah Perez"],
@@ -371,38 +409,11 @@
 			]
 		},
 		{
-			"date": "2024-05-15",
-			"type": "absence",
-			"title": "Professor Epstein @ CHI, Guest Rajan Vaish"
-		},
-		{
-			"date": "2024-05-15",
-			"type": "class",
-			"title": "AI and Social Media",
-			"platform": {
-				"name": "Easel.AI"
-			},
-			"readings": [
-				{"tbd": "tbd"}
-			]
-		},
-		{
-			"date": "2024-05-20",
+			"date": "2024-05-22",
 			"type": "class",
 			"title": "Health Forums",
 			"platform": {
 				"name": "PatientsLikeMe"
-			},
-			"readings": [
-				{"tbd": "tbd"}
-			]
-		},
-		{
-			"date": "2024-05-22",
-			"type": "class",
-			"title": "Wellbeing Support",
-			"platform": {
-				"name": "Strava"
 			},
 			"readings": [
 				{"tbd": "tbd"}
@@ -416,9 +427,9 @@
 		{
 			"date": "2024-05-29",
 			"type": "class",
-			"title": "Misinformation",
+			"title": "Wellbeing Support",
 			"platform": {
-				"name": "Twitter/X"
+				"name": "Strava"
 			},
 			"readings": [
 				{"tbd": "tbd"}
@@ -427,7 +438,10 @@
 		{
 			"date": "2024-06-03",
 			"type": "class",
-			"title": "TBD",
+			"title": "Misinformation",
+			"platform": {
+				"name": "Twitter/X"
+			},
 			"readings": [
 				{"tbd": "tbd"}
 			]
