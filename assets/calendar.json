@@ -301,7 +301,8 @@
 					"venue": "Radiolab",
 					"link": "https://radiolab.org/podcast/post-no-evil/transcript"
 				}
-			]
+			],
+			"slides": "assets/slides/05_06_24-content_moderation.pdf"
 		},
 		{
 			"date": "2024-05-08",
