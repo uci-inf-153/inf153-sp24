@@ -425,6 +425,12 @@
 		},
 		{
 			"date": "2024-05-29",
+			"type": "assignment",
+			"title": "Practicing Content Moderation",
+			"link": "/assignment3"
+		},
+		{
+			"date": "2024-05-29",
 			"type": "class",
 			"title": "Wellbeing Support",
 			"platform": {
