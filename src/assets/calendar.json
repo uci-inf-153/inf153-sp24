@@ -442,10 +442,23 @@
 			"type": "class",
 			"title": "Wellbeing Support",
 			"platform": {
-				"name": "Strava"
+				"name": "Strava",
+				"link": "https://www.youtube.com/watch?v=AiknvQsvo7M"
 			},
 			"readings": [
-				{"tbd": "tbd"}
+				{
+					"authors": ["Joe Lindsey"],
+					"title": "Why Strava Is Getting More Social than Ever",
+					"date": "2021",
+					"link": "https://www.outsideonline.com/health/training-performance/strava-james-quarles/?scope=anon"
+				},
+				{
+					"authors": ["Mark W. Newman", "Debra Lauterbach", "Sean A. Munson", "Paul Resnick", "Margaret E. Morris"],
+					"title": "\"It's not that I don't have problems, I'm just not putting them on Facebook”: Challenges and Opportunities in Using Online Social Networks for Health\"",
+					"venue": "CSCW",
+					"date": "2011",
+					"link": "https://dl.acm.org/doi/abs/10.1145/1958824.1958876"
+				}
 			]
 		},
 		{
