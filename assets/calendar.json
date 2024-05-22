@@ -424,7 +424,8 @@
 					"issue": "CSCW2",
 					"link": "https://dl.acm.org/doi/abs/10.1145/3479564"
 				}
-			]
+			],
+			"slides": "assets/slides/05_22_24-health_forums.pdf"
 		},
 		{
 			"date": "2024-05-27",
@@ -442,7 +443,8 @@
 			"type": "class",
 			"title": "Wellbeing Support",
 			"platform": {
-				"name": "Strava"
+				"name": "Strava",
+				"link": "https://www.youtube.com/watch?v=AiknvQsvo7M"
 			},
 			"readings": [
 				{
