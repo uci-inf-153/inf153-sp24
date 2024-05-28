@@ -468,10 +468,26 @@
 			"type": "class",
 			"title": "Misinformation",
 			"platform": {
-				"name": "Twitter/X"
+				"name": "Twitter/X",
+				"link": "https://www.youtube.com/watch?v=ggfJMdvoj1k"
 			},
 			"readings": [
-				{"tbd": "tbd"}
+				{
+					"title": "‘Belonging Is Stronger Than Facts’: The Age of Misinformation",
+					"authors": ["Max Fisher"],
+					"venue": "New York Times",
+					"date": "2021",
+					"link": "https://www.nytimes.com/2021/05/07/world/asia/misinformation-disinformation-fake-news.html"
+				},
+				{
+					"authors": ["Kate Starbird", "Ahmer Arif", "Tom Wilson"],
+					"title": "Disinformation as Collaborative Work: Surfacing the Participatory Nature of Strategic Information Operations",
+					"venue": "PACM HCI",
+					"volume": "3",
+					"issue": "CSCW",
+					"date": "2019",
+					"link": "https://dl.acm.org/doi/abs/10.1145/3359229"
+				}
 			]
 		},
 		{
